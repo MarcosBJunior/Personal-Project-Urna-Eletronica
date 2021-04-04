@@ -9,6 +9,8 @@ let etapaAtual = 0;
 let numero = "";
 let votoBranco = false;
 
+alert("Voto Funcional (1-2-3-4-5)")
+
 function comecarEtapa() {
   let etapa = etapas[etapaAtual]
 
