@@ -22,5 +22,5 @@ O Projeto **Urna-Eletronica** é baseado na criação de uma urna eletrônica si
 ## 🚀 **Tecnologias Utilizadas no Projeto**🚀
 
            
-🚫 Neste Projeto não foi utilizada nehuma tecnologia 🚫
+### 🚫 Neste Projeto não foi utilizada nehuma tecnologia 🚫
 
