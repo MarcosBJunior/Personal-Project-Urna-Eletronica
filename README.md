@@ -10,12 +10,11 @@ O Projeto **Urna-Eletronica** é baseado na criação de uma urna eletrônica si
 
 ## ⌨ **Linguagens Utilizadas no Projeto**⌨ 
 
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
- ![file_type_html_icon_130541](https://user-images.githubusercontent.com/69303138/113502725-7f1dcf80-9504-11eb-9e43-2e8955d6933d.png)  
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
- ![file_type_css_icon_130661](https://user-images.githubusercontent.com/69303138/113502736-9bba0780-9504-11eb-8021-e8d7aad8656c.png)  
-
- ![file_type_js_official_icon_130509](https://user-images.githubusercontent.com/69303138/113502794-d885fe80-9504-11eb-8bd6-8dddf833fc43.png)  
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  
 
 
