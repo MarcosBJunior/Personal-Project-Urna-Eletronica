@@ -1,5 +1,7 @@
 # Personal-Project-Urna-Eletronica
 
+![gif2](https://user-images.githubusercontent.com/69303138/113957132-116bef00-97f5-11eb-892b-656f4f3eac12.gif)
+
 ## 👨‍💻 **Projeto**👨‍💻
 
 O Projeto **Urna-Eletronica** é baseado na criação de uma urna eletrônica simulando uma votação para vereador. Neste projeto só é valido o voto (1,2,3,4) para o vereador "Tiririca".
@@ -20,4 +22,5 @@ O Projeto **Urna-Eletronica** é baseado na criação de uma urna eletrônica si
 ## 🚀 **Tecnologias Utilizadas no Projeto**🚀
 
            
-## 🚫 Neste Projeto não foi utilizada nehuma tecnologia 🚫 ## 
+![jquery_plain_logo_icon_146444](https://user-images.githubusercontent.com/69303138/113957288-509a4000-97f5-11eb-89ea-eacc3e790866.png)
+
